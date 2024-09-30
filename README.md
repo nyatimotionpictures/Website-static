@@ -44,11 +44,6 @@ yarn build
 
 This command will compile the source code and output the production build into the `dist` folder.
 
-## Notes
-
-- Ensure that any changes made to the source code are followed by a new build process to reflect the changes in the `dist` folder.
-- Keep the `dist` folder up-to-date to ensure that the deployed version of the website is always the latest.
-
 ## Contact
 
 For any inquiries related to the distribution or deployment of the Nyati Motion Pictures marketing website, please reach out to the team at [info@nyatimotionpictures.com](mailto:info@nyatimotionpictures.com).
