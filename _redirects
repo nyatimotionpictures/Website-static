@@ -1,5 +1,5 @@
 # Force rewrite a path
-/* /index.html 200!
+/* /index.html 200
 
 # Redirect from HTTP to HTTPS
 http://staging.nyatimotionpictures.com/* https://staging.nyatimotionpictures.com/:splat 301!
