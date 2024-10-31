@@ -2,7 +2,7 @@
 /* /index.html 200
 
 # Redirected pages
-/about%20us.html  /about  301
+/about%20us.html  /about
 /services.html  /services  301
 /contact%20us.html  /contact  301
 /nyati%20films.html  /film  301
