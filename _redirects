@@ -1,8 +1,0 @@
-# Force rewrite a path
-/* /index.html 200
-
-# Redirected pages
-https://nyatimotionpictures.com/about%20us.html  https://nyatimotionpictures.com/about  301!
-https://nyatimotionpictures.com/services.html    https://nyatimotionpictures.com/services  301!
-https://nyatimotionpictures.com/contact%20us.html  https://nyatimotionpictures.com/contact  301!
-https://nyatimotionpictures.com/nyati%20films.html  https://nyatimotionpictures.com/film  301!
